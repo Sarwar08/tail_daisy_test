@@ -1,2 +1,5 @@
 node_modules
-.input.css
+input.css
+package-lock.json
+package.json
+tailwind.config.js
